@@ -1,11 +1,11 @@
-# Hydra
+# Adsigma
 
 Marketing site template for Jekyll. Browse through a [live demo](https://proud-alligator.cloudvent.net/).
 Increase the web presence of your brand with this configurable theme.
 
-![Hydra template screenshot](images/_screenshot.png)
+![Adsigma screenshot](images/_screenshot.png)
 
-Hydra was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
+Adsigma was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
 
 Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/).
 
@@ -32,7 +32,7 @@ Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Ac
 
 ## Develop
 
-Hydra was built with [Jekyll](http://jekyllrb.com/) version 3.3.1, but should support newer versions as well.
+Adsigma was built with [Jekyll](http://jekyllrb.com/) version 3.3.1, but should support newer versions as well.
 
 Install the dependencies with [Bundler](http://bundler.io/):
 
@@ -48,7 +48,7 @@ $ bundle exec jekyll serve
 
 ## Editing
 
-Hydra is already optimised for adding, updating and removing pages, staff, advice, company details and footer elements in CloudCannon.
+Adsigma is already optimised for adding, updating and removing pages, staff, advice, company details and footer elements in CloudCannon.
 
 ### Posts
 
