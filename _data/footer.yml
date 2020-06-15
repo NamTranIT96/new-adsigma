@@ -9,10 +9,10 @@
     link: /contact/
 - links:
   - name: Login
-    link: /
+    link: https://app.adsigma.ai
     new_window: true
   - name: Sign Up
-    link: /
+    link: https://app.adsigma.ai
     new_window: true
   - name: Docs
     link: /
@@ -22,16 +22,12 @@
     new_window: true
 - links:
   - name: Facebook
-    link: https://facebook.com/cloudcannon/
+    link: https://facebook.com/adsigma/
     new_window: true
     social_icon: Facebook
   - name: Twitter
-    link: https://twitter.com/cloudcannon/
+    link: https://twitter.com/AdsigmaAI/
     social_icon: Twitter
-    new_window: true
-  - name: YouTube
-    link: https://youtube.com/cloudcannon/
-    social_icon: YouTube
     new_window: true
   - name: RSS
     link: /feed.xml
