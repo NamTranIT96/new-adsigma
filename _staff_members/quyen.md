@@ -1,5 +1,5 @@
 ---
-name: Quyen Nguyen
+name: Quyền Nguyễn
 position: Product Designer
 image_path: /images/people/quyennguyen.jpeg
 twitter: quyengeek
