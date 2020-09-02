@@ -1,8 +1,10 @@
+- name: Features
+  link: /features/
 - name: Pricing
   link: /pricing/
   new_window: false
   highlight: false
-# - name: Blog
+  # - name: Blog
   # link: /blog/
   # new_window: false
   # highlight: false
