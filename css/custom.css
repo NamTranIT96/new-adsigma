@@ -13914,7 +13914,7 @@ a:active, a:focus, a:hover, a:visited {
 
 .cta-one__moc {
     position: absolute;
-    left: -190px;
+    left: -70px;
     bottom: -150px
 }
 
@@ -15182,6 +15182,10 @@ a:active, a:focus, a:hover, a:visited {
     font-weight: 500
 }
 
+.testimonials-one__thumb-carousel .swiper-slide-active {
+    width: 570px;
+}
+
 @media (max-width: 375px) {
     .faq-accrodion .accrodion .accrodion-title h4 {
         line-height: 1.4em
@@ -15205,6 +15209,11 @@ a:active, a:focus, a:hover, a:visited {
         padding-top: 20px;
         padding-bottom: 20px
     }
+
+    .testimonials-one__thumb-carousel .swiper-slide-active {
+        width: 100% !important;
+    }
+
 
     .site-header-one__logo .side-menu__toggler {
         display: flex
@@ -15277,6 +15286,39 @@ a:active, a:focus, a:hover, a:visited {
 }
 
 @media (max-width: 991px) {
+    .banner-one .container {
+        display: flex;
+        flex-wrap: wrap-reverse;
+    }
+
+    .banner-one .container .row {
+        width: 100%;
+        margin: 0px;
+    }
+
+
+    .brand-one .swiper-slide {
+        text-align: center;
+        width: 100% !important;
+    }
+
+    .brand-one .swiper-wrapper {
+        overflow-x: auto;
+    }
+
+    .service-one {
+        padding-top: 70px;
+    }
+
+    .testimonials-one {
+        padding-top: 0px !important;
+    }
+
+    .testimonials-one__image {
+        margin-bottom: 0px !important;
+    }
+
+
     .cta-one__moc {
         position: relative;
         bottom: auto;
@@ -15389,6 +15431,44 @@ a:active, a:focus, a:hover, a:visited {
 }
 
 @media (max-width: 767px) {
+
+    .mailchimp-one .text-content {
+        display: block;
+    }
+    .mailchimp-one .text-content a{
+       margin-top: 20px;
+    }
+
+    .testimonials-one__image:before {
+        background-image: none !important;
+    }
+
+    .contact-one .contact-details {
+        margin-top: 20px;
+    }
+
+    .service-one__single {
+        border-top-left-radius: 100px;
+        border-bottom-left-radius: 10px;
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 100px;
+    }
+
+    .cta-one__moc {
+        display: none;
+    }
+
+    .banner-one .container .banner-one__moc {
+        width: 100%;
+        display: none;
+    }
+
+    .banner-one .container .row .banner-one__btn {
+        text-align: center;
+        width: 100%;
+    }
+
+
     .mailchimp-one__icon {
         position: relative;
         top: auto;
